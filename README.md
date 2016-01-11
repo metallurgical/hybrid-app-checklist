@@ -36,7 +36,7 @@ Checklist should have to configured ionic framework &amp; angularJS in action to
 
 ## Setting Up Path ANDROID_HOME, ANT_HOME and JDK
 **- General Uses**
-  `- Right Click My Computer ==> Properties ==> Advanced System Settings ==> Environment Variables`
+  - Right Click `My Computer ==> Properties ==> Advanced System Settings ==> Environment Variables`
   
 **1) ANDROID_HOME**
 
