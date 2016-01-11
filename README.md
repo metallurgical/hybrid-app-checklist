@@ -33,3 +33,9 @@ Checklist should have to configured ionic framework &amp; angularJS in action to
 2) Install ionic
    - Open command prompt(CMD), command : win + r, type cmd and enter.
    - Type : npm install -g ionic, and wait until finish.
+
+# Setting Up Path ANDROID_HOME, ANT_HOME and JDK
+- General Uses
+  - Right Click My Computer -> Properties -> Advanced System Settings -> Environment Variables
+  
+1) ANDROID_HOME
