@@ -1,7 +1,7 @@
 # hybrid-app-checklist
 Checklist should have to configured ionic framework &amp; angularJS in action to build mobile app for Android and IOS
 
-# List to download
+## List to download
 1) SDK manager tools - **Cumpolsary** (download and install)
   - Used to add platform and build code into .apk files
   - Link to download : http://dl.google.com/android/installer_r24.4.1-windows.exe
@@ -34,7 +34,7 @@ Checklist should have to configured ionic framework &amp; angularJS in action to
    - Open command prompt(CMD), command : win + r, type cmd and enter.
    - Type : npm install -g ionic, and wait until finish.
 
-# Setting Up Path ANDROID_HOME, ANT_HOME and JDK
+## Setting Up Path ANDROID_HOME, ANT_HOME and JDK
 - General Uses
   - Right Click My Computer -> Properties -> Advanced System Settings -> Environment Variables
   
