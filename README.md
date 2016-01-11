@@ -39,3 +39,5 @@ Checklist should have to configured ionic framework &amp; angularJS in action to
   - Right Click My Computer -> Properties -> Advanced System Settings -> Environment Variables
   
 1) ANDROID_HOME
+  - In User variables
+    - Click New -> variable name put "ANDROID_HOME" without quote -> variable value put "E:\Works\Android\sdk-30-dec-2015\android-sdk" without quote(location of SDK path installed)
