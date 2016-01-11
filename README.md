@@ -2,7 +2,7 @@
 Checklist should have to configured ionic framework &amp; angularJS in action to build mobile app for Android and IOS
 
 ## List to download
-1) SDK manager tools - **Cumpolsary** (download and install)
+**1) SDK manager tools** - **Cumpolsary** (download and install)
   - Used to add platform and build code into .apk files
   - Link to download : http://dl.google.com/android/installer_r24.4.1-windows.exe
   - Should install in bigger storage space to hold the Api revision at least minimun have 10 to 20GB free allocation space.
