@@ -26,7 +26,7 @@ Checklist should have to configured ionic framework &amp; angularJS in action to
 6) Xampp or Any server(to host API)
 
 ## Install Ionic & Cordova
-1) Install cordova
+**1) Install cordova**
    - Open command prompt(CMD), command : win + r, type cmd and enter.
    - Type : npm install -g cordova, and wait until finish.
 
