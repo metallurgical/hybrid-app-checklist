@@ -28,8 +28,8 @@ Checklist should have to configured ionic framework &amp; angularJS in action to
 # Install Ionic & Cordova
 1) Install cordova
    - Open command prompt(CMD), command : win + r, type cmd and enter.
-   - Type : npm install -g cordova, tunggu sehingga siap
+   - Type : npm install -g cordova, and wait until finish.
 
 2) Install ionic
    - Open command prompt(CMD), command : win + r, type cmd and enter.
-   - Type : npm install -g ionic, tunggu sehingga siap
+   - Type : npm install -g ionic, and wait until finish.
