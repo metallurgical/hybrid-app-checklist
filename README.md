@@ -40,21 +40,21 @@ Checklist should have to configured ionic framework &amp; angularJS in action to
   
 **1) ANDROID_HOME**
 
-  **-In User variables**
+  -In User variables
     - Click New ==> variable name put "ANDROID_HOME" without quote ==> variable value put "E:\**\Android\android-sdk" without quote(location of SDK path installed)
-  **- In System Variables**
+  - In System Variables
     - Find variable name path, add variable value at the end with this portion text "%ANDROID_HOME%tools;%ANDROID_HOME%platform-tools;" without quote and separate with semicolumn(;)
   
 **2) ANT_HOME**
-  - **In User variables**
+  - In User variables
     - Click New ==> variable name put "ANT_HOME" without quote ==> variable value put "E:\**\apache-ant-1.9.6" without quote(location of ANT was located after unzipped)
-  **- In System Variables**
+  - In System Variables
     - Find variable name path, add variable value at the end with this portion text "%ANT_HOME%;" without quote and separate with semicolumn(;)
   
 **3) Java path ( Ussually already configured automatically after installation process), if did't use below configuration :**
-  **- In User variables**
+  - In User variables
     - Click New ==> variable name put "JAVA_HOME" without quote ==> variable value put "C:\Program Files (x86)\Java\jdk1.8.0_65" without quote(location of JDK path installed before)
-  **- In System Variables**
+  - In System Variables
     - Find variable name path, add variable value at the end with this portion text "%JAVA_HOME%\bin;" without quote and separate with semicolumn(;)
   
 More steps? Nope, that's all.... Happy Coding :)
