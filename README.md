@@ -12,6 +12,7 @@ Checklist should have to configured ionic framework &amp; angularJS in action to
   - x64(64bit) http://download.oracle.com/otn-pub/java/jdk/8u65-b17/jdk-8u65-windows-x64.exe
 
 **3) Ant apache(Download only)**  - **Cumpolsary** 
+  - Download, unzipped and locate inside any drive
   - http://www.us.apache.org/dist//ant/binaries/apache-ant-1.9.6-bin.zip
    
 **4) Node.js(download and install)**  - **Cumpolsary** 
