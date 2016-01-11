@@ -46,7 +46,7 @@ Checklist should have to configured ionic framework &amp; angularJS in action to
     - Find variable name path, add variable value at the end with this portion text "%ANDROID_HOME%tools;%ANDROID_HOME%platform-tools;" without quote and separate with semicolumn(;)
   
 **2) ANT_HOME**
-  **- In User variables**
+  - **In User variables**
     - Click New ==> variable name put "ANT_HOME" without quote ==> variable value put "E:\**\apache-ant-1.9.6" without quote(location of ANT was located after unzipped)
   **- In System Variables**
     - Find variable name path, add variable value at the end with this portion text "%ANT_HOME%;" without quote and separate with semicolumn(;)
