@@ -8,8 +8,9 @@ Checklist should have to configured ionic framework &amp; angularJS in action to
   - Should install in bigger storage space to hold the Api revision at least minimun have 10 to 20GB free allocation space.
 
 **2) JDK(already included JRE)** - **Cumpolsary** : choose either x64 or x86 depend on your Operating System.(Download and install)
-  - x86(32bit) http://download.oracle.com/otn-pub/java/jdk/8u65-b17/jdk-8u65-windows-i586.exe
-  - x64(64bit) http://download.oracle.com/otn-pub/java/jdk/8u65-b17/jdk-8u65-windows-x64.exe
+  - ~~x86(32bit) http://download.oracle.com/otn-pub/java/jdk/8u65-b17/jdk-8u65-windows-i586.exe~~
+  - ~~x64(64bit) http://download.oracle.com/otn-pub/java/jdk/8u65-b17/jdk-8u65-windows-x64.exe~~
+  - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html(accept agreement & download)
 
 **3) Ant apache(Download only)**  - **Cumpolsary** 
   - Download, unzipped and locate inside any drive
